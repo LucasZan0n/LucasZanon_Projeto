@@ -95,5 +95,85 @@ body
     
 }
 
+.sobreMim {
 
+  background-color: rgb(51, 50, 50);
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+  color: aliceblue;
+  
+}
+
+.informacoes {
+
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+  font-size: 10px;
+  
+}
+
+.qualidades {
+
+  background-color: rgb(51, 50, 50);
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+  color: aliceblue;
+  
+}
+
+.listaQualidades {
+
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+  font-size: 13px;
+  font-weight: bold;
+  
+}
+
+.defeitos {
+
+  background-color: rgb(51, 50, 50);
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+  color: aliceblue;
+  
+}
+
+.listaDefeitos {
+
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+  font-size: 13px;
+  font-weight: bold;
+  
+}
+
+.objetivos {
+
+  background-color: rgb(51, 50, 50);
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+  color: aliceblue;
+  
+}
+
+.meusObjetivos {
+
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+  font-size: 10px;
+  
+}
 
